@@ -1,0 +1,560 @@
+- id: "047"
+  zh: "陳明宏"
+  en: "Ming-Hong Chen"
+  group: phd
+  period: "MS 09/2023–08/2025, PhD 09/2025–present"
+  topic: "Cross-Domain RL"
+  focus: [rl-domain-adaptation, sim-to-real]
+
+- id: "048"
+  zh: "王廣達"
+  en: "Kuang-Da Wang"
+  group: phd
+  period: "MS 09/2022–08/2024, PhD 09/2024–present"
+  note: "Co-advised by Prof. Wen-Chih Peng"
+  topic: "Test-Time Alignment"
+  focus: [test-time-alignment, decision-time-planning-mpc]
+  web: "https://kuangdw.github.io/"
+
+- id: "066"
+  zh: "陳奎元"
+  en: "Kui-Yuan Chen"
+  group: ms
+  bs: NYCU-CS
+  topic: "Zero-Shot RL"
+  focus: [decision-representation-learning, test-time-reward-inference]
+
+- id: "067"
+  zh: "張家祐"
+  en: ""
+  group: ms
+  bs: NTHU-Science
+  topic: "Policy Gradient"
+  focus: [first-order-policy-optimization]
+
+- id: "068"
+  zh: "柯國勛"
+  en: "Guo-Xun Ko"
+  group: ms
+  bs: NTHU-CS
+  topic: "Test-Time Alignment"
+  focus: [test-time-alignment]
+
+- id: "069"
+  zh: "張立宜"
+  en: ""
+  group: ms
+  bs: NCHU-EECS
+  topic: "Model-Predictive Control"
+  focus: [decision-time-planning-mpc]
+
+- id: "070"
+  zh: "蔡皓宇"
+  en: ""
+  group: ms
+  bs: NTHU-Math
+  topic: "Zero-Shot RL"
+  focus: [decision-representation-learning]
+
+- id: "049"
+  zh: "吳秉澍"
+  en: "Bing-Shu Wu"
+  group: ms
+  bs: NYCU-CS
+  ug: 2023
+  period: "Undergraduate member 02/2023–08/2024, MS 09/2024–present"
+  topic: "RL for LLMs"
+  focus: [test-time-alignment]
+
+- id: "050"
+  zh: "林睿騰"
+  en: ""
+  group: ms
+  bs: NYCU-CS
+  ug: 2023
+  period: "Undergraduate member 02/2023–08/2024, MS 09/2024–present"
+  topic: "Restless Bandits"
+  focus: [restless-bandits]
+
+- id: "057"
+  zh: "林禹亨"
+  en: "Yu-Heng Lin"
+  group: ms
+  bs: NYCU-CS
+  topic: "Sequence Modeling for RL"
+  focus: [in-context-rl]
+
+- id: "058"
+  zh: "皮恩亞"
+  en: ""
+  group: ms
+  bs: NCU-Math
+  topic: "Cross-Domain RL"
+  focus: [rl-domain-adaptation]
+
+- id: "038"
+  zh: "温柏萱"
+  en: ""
+  group: ms
+  bs: NYCU-CS
+  ug: 2022
+  period: "Undergraduate member 09/2022–08/2024, MS 09/2024–present"
+  topic: RLHF
+  focus: [test-time-reward-inference]
+
+- id: "043"
+  zh: "楊竣傑"
+  en: "Jun-Jie Yang"
+  group: ms
+  bs: NYCU-CS
+  ug: 2022
+  period: "Undergraduate member 08/2023–08/2024, MS 09/2024–present"
+  topic: "Multi-Objective RL"
+  focus: [multi-objective-rl]
+
+- id: "056"
+  zh: "林楷傑"
+  en: "Kai-Jie Lin"
+  group: ra
+  bs: NYCU-CS
+  ug: 2023
+  period: "Undergraduate member 08/2023–07/2025, RA 08/2025–present"
+  web: "https://kjldefeated.github.io/"
+
+- id: "075"
+  zh: "馬楷翔"
+  en: "Kai-Siang Ma"
+  group: ra
+  bs: NYCU-CS
+  period: "RA 08/2025–present"
+
+- id: "012"
+  zh: "鍾承佑"
+  en: "Cheng-Yu Chung"
+  group: ug
+  ug: 2020
+  now: "MS student at CMU"
+
+- id: "013"
+  zh: "柯秉志"
+  en: "Bing-Zhi Ke"
+  group: ug
+  ug: 2020
+
+- id: "014"
+  zh: "徐煜倫"
+  en: "Yu-Lun Hsu"
+  group: ug
+  ug: 2020
+
+- id: "015"
+  zh: "王耀德"
+  en: ""
+  group: ug
+  ug: 2020
+
+- id: "016"
+  zh: "蔡育呈"
+  en: ""
+  group: ug
+  ug: 2020
+
+- id: "017"
+  zh: "周俊毅"
+  en: ""
+  group: ug
+  ug: 2020
+
+- id: "018"
+  zh: "張祐銘"
+  en: ""
+  group: ug
+  ug: 2020
+
+- id: "019"
+  zh: "張祐閤"
+  en: ""
+  group: ug
+  ug: 2020
+
+- id: "023"
+  zh: "鄒翔傑"
+  en: ""
+  group: ug
+  ug: 2021
+  now: "MS student at UCSD"
+
+- id: "024"
+  zh: "黃迺絜"
+  en: "Nai-Chieh Huang"
+  group: ug
+  ug: 2021
+  now: "PhD student at CMU"
+
+- id: "025"
+  zh: "洪婕庭"
+  en: ""
+  group: ug
+  ug: 2021
+
+- id: "026"
+  zh: "陳筱霓"
+  en: ""
+  group: ug
+  ug: 2021
+  now: Google
+
+- id: "027"
+  zh: "許承壹"
+  en: ""
+  group: ug
+  ug: 2021
+
+- id: "028"
+  zh: "林浩君"
+  en: ""
+  group: ug
+  ug: 2021
+
+- id: "037"
+  zh: "吳文心"
+  en: ""
+  group: ug
+  ug: 2022
+
+- id: "039"
+  zh: "孟祥蓉"
+  en: ""
+  group: ug
+  ug: 2022
+
+- id: "040"
+  zh: "廖兆琪"
+  en: ""
+  group: ug
+  ug: 2022
+
+- id: "041"
+  zh: "沈克軒"
+  en: ""
+  group: ug
+  ug: 2022
+  now: "MS student at TAMU"
+
+- id: "042"
+  zh: "陳秉劼"
+  en: ""
+  group: ug
+  ug: 2022
+
+- id: "052"
+  zh: "王振倫"
+  en: ""
+  group: ug
+  ug: 2023
+
+- id: "053"
+  zh: "楊沁瑜"
+  en: ""
+  group: ug
+  ug: 2023
+
+- id: "054"
+  zh: "施柏江"
+  en: ""
+  group: ug
+  ug: 2023
+
+- id: "055"
+  zh: "林佑家"
+  en: ""
+  group: ug
+  ug: 2023
+
+- id: "059"
+  zh: "徐嘉亨"
+  en: "Chia-Heng Hsu"
+  group: ug
+  ug: 2024
+
+- id: "060"
+  zh: "黃佑得"
+  en: "You-De Huang"
+  group: ug
+  ug: 2024
+
+- id: "061"
+  zh: "周世恩"
+  en: ""
+  group: ug
+  ug: 2025
+
+- id: "062"
+  zh: "陳帛祥"
+  en: ""
+  group: ug
+  ug: 2025
+
+- id: "065"
+  zh: "廖漢軒"
+  en: ""
+  group: ug
+  ug: 2025
+
+- id: "071"
+  zh: "劉家琪"
+  en: ""
+  group: ug
+  ug: 2025
+
+- id: "072"
+  zh: "余逸翔"
+  en: ""
+  group: ug
+  ug: 2025
+
+- id: "073"
+  zh: "江品寬"
+  en: ""
+  group: ug
+  ug: 2025
+
+- id: "074"
+  zh: "戴翊宸"
+  en: ""
+  group: ug
+  ug: 2025
+
+- id: "001"
+  zh: "洪偉"
+  en: "Wei Hung"
+  group: alumni-phd
+  thesis: "Action-Constrained Reinforcement Learning"
+
+- id: "002"
+  zh: "洪鈺恆"
+  en: "Yu-Heng Hung"
+  aliases: ["Yu Heng Hung"]
+  group: alumni-phd
+  thesis: "Learning to Optimize: Bandit Algorithms and Reinforcement Learning for Black-box Decision Problems"
+
+- id: "029"
+  zh: "連云暄"
+  en: "Yun-Hsuan Lien"
+  group: alumni-phd
+  now: "Assistant Research Fellow, CITI, Academia Sinica"
+  note: "Co-advised by Prof. Yu-Shuen Wang"
+  thesis: "Bridging the Gap in Reinforcement Learning: Robust Algorithms and Techniques for Practical Applications"
+
+- id: "030"
+  zh: "何國豪"
+  en: "Kuo-Hao Ho"
+  group: alumni-phd
+  now: MediaTek
+  note: "Co-advised by Prof. I-Chen Wu"
+  thesis: "A Study of Deep Reinforcement Learning for Human-Like Behavior Modeling and Scheduling Optimization"
+
+- id: "063"
+  zh: "許嘉喻"
+  en: ""
+  group: alumni-ra
+  period: "RA 08/2024–06/2025"
+  now: "PhD student, University of Michigan"
+
+- id: "064"
+  zh: "秦紫頤"
+  en: "Zhi-Yi Chin"
+  group: alumni-ra
+  period: "RA 03/2025–07/2025"
+  now: "PhD student, Max Planck Institute"
+
+- id: "003"
+  zh: "林峻立"
+  en: "Jyun-Li Lin"
+  group: alumni-ms
+  period: "09/2019–07/2021"
+  bs: NCU-CS
+  now: MediaTek
+  thesis: "Frank-Wolfe Policy Optimization for Reinforcement Learning with Action Constraints"
+
+- id: "004"
+  zh: "謝秉瑾"
+  en: "Bing-Jing Hsieh"
+  group: alumni-ms
+  period: "09/2019–07/2021"
+  bs: NCCU-CS
+  now: Inventec
+  thesis: "Reinforced Few-Shot Acquisition Function Learning for Bayesian Optimization"
+
+- id: "005"
+  zh: "李昕"
+  en: ""
+  group: alumni-ms
+  period: "09/2019–03/2022"
+  bs: NCKU-CS
+  now: PHISON
+  thesis: "Accelerating Gaussian Process Regression via Meta-Learned Neural Processes: A Utility-Based MAML Approach"
+
+- id: "006"
+  zh: "蘇信恩"
+  en: "Hsin-En Su"
+  group: alumni-ms
+  period: "02/2021–09/2022"
+  bs: NCTU-CS
+  now: Google
+  note: "BS+MS in 5 years"
+  thesis: "Coordinate Ascent Policy Optimization"
+
+- id: "007"
+  zh: "黃柏愷"
+  en: "Bo-Kai Huang"
+  group: alumni-ms
+  period: "09/2020–09/2022"
+  bs: NCKU-CS
+  now: "Trend Micro"
+  thesis: "Q-Pensieve: Boosting Sample Efficiency of Multi-Objective RL Through Memory Sharing of Q-Snapshots"
+
+- id: "008"
+  zh: "郭俊廷"
+  en: ""
+  group: alumni-ms
+  period: "09/2020–10/2022"
+  bs: NCTU-EE
+  now: MediaTek
+  thesis: "Adaptive-UCB for Online Restless Bandits"
+
+- id: "009"
+  zh: "黃睿宇"
+  en: ""
+  group: alumni-ms
+  period: "09/2020–10/2022"
+  bs: NCTU-IEM
+  now: MediaTek
+  thesis: "Multi-Objective Time-Varying Bayesian Optimization"
+
+- id: "010"
+  zh: "楊上萱"
+  en: "Shang-Hsuan Yang"
+  group: alumni-ms
+  period: "09/2020–11/2022"
+  bs: NCTU-CS
+  now: MediaTek
+  thesis: "Variance-Reduced Frank-Wolfe Policy Optimization for Action-Constrained RL"
+
+- id: "011"
+  zh: "歐陽良雋"
+  en: ""
+  group: alumni-ms
+  period: "09/2020–12/2022"
+  bs: NCTU-EE
+  now: MediaTek
+  thesis: "Robustifying Proximal Policy Optimization Against Noisy Critics"
+
+- id: "020"
+  zh: "楊祐維"
+  en: "Yu-Wei Yang"
+  group: alumni-ms
+  period: "09/2021–10/2023"
+  bs: NCTU-CS
+  now: MediaTek
+  thesis: "Model Selection for Offline Model-Based RL via Bayesian Optimization"
+
+- id: "021"
+  zh: "吳程畯"
+  en: ""
+  group: alumni-ms
+  period: "09/2021–12/2023"
+  bs: "NCHU-Applied Math"
+  thesis: "Learning From Expert Demonstrations With Incomplete Observations"
+
+- id: "022"
+  zh: "朱文滔"
+  en: ""
+  group: alumni-ms
+  period: "09/2021–03/2024"
+  bs: NCU-Math
+  thesis: "Provably Convergent Mixture-of-Experts in Reinforcement Learning"
+
+- id: "031"
+  zh: "陳彥儒"
+  en: "Yen-Ju Chen"
+  group: alumni-ms
+  period: "09/2022–06/2024"
+  bs: "NCTU-Applied Math"
+  now: Synopsys
+  thesis: "Accelerated Policy Gradient: On the Convergence Rates of Nesterov's Momentum for Reinforcement Learning"
+
+- id: "032"
+  zh: "張千祐"
+  en: ""
+  group: alumni-ms
+  period: "09/2022–06/2024"
+  bs: NCTU-CS
+  thesis: "Learning From Demonstrative Experts of Diverse Preference"
+
+- id: "033"
+  zh: "潘冠蓁"
+  en: "Kuan-Chen Pan"
+  group: alumni-ms
+  period: "09/2022–07/2024"
+  bs: NCTU-CS
+  now: TSMC
+  thesis: "Survive on Planet Pandora: Robust Cross-Domain RL Under Distinct State-Action Representations"
+
+- id: "034"
+  zh: "黃亭晅"
+  en: ""
+  group: alumni-ms
+  period: "09/2022–07/2024"
+  bs: NCTU-IMF
+  thesis: "Cross-Domain Knowledge Transfer via Preference Consistency"
+
+- id: "035"
+  zh: "葉佳翰"
+  en: "Chia-Han Yeh"
+  group: alumni-ms
+  period: "09/2022–01/2025"
+  bs: NCTU-CS
+  now: TronFuture
+  thesis: "Action-Constrained Imitation Learning"
+
+- id: "036"
+  zh: "詹昀銘"
+  en: "Yun-Ming Chan"
+  group: alumni-ms
+  period: "09/2022–05/2025"
+  bs: NCTU-CS
+  thesis: "Improving Anesthesia Simulators via Reinforcement Learning"
+
+- id: "044"
+  zh: "陳盈圖"
+  en: "Ying-Tu Chen"
+  group: alumni-ms
+  period: "09/2023–07/2025"
+  bs: NYCU-CS
+  now: Google
+  thesis: "A Reward-Free Viewpoint on Multi-Objective Reinforcement Learning"
+
+- id: "045"
+  zh: "陳騰睿"
+  en: "Teng-Ruei Chen"
+  group: alumni-ms
+  period: "09/2023–07/2025"
+  bs: "NCCU-Applied Math"
+  thesis: "Plan2Align: Predictive Planning Based Test-Time Preference Alignment in Paragraph-Level Machine Translation"
+
+- id: "046"
+  zh: "陳子安"
+  en: "Sze-Ann Chen"
+  group: alumni-ms
+  period: "09/2023–10/2025"
+  bs: NYCU-CS
+  thesis: "Plan2Cleanse: Test-Time Backdoor Detection and Mitigation via Monte-Carlo Planning in Deep Reinforcement Learning"
+
+- id: "051"
+  zh: "朱立民"
+  en: "Li-Min Chu"
+  group: alumni-ms
+  period: "09/2023–12/2025"
+  bs: "NSYSU-Applied Math"
+  thesis: "Semi-Supervised Cross-Domain Imitation Learning"

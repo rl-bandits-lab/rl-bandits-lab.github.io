@@ -1,0 +1,159 @@
+lab:
+  name: "Reinforcement Learning and Bandits Lab"
+  short: "RL & Bandits Lab"
+  affiliation: "Department of Computer Science, National Yang Ming Chiao Tung University"
+  affiliationShort: "NYCU CS"
+  location: "Lab: EC 129, Engineering Building III, Guangfu Campus (光復校區工程三館 129 室)"
+  github: "https://github.com/rl-bandits-lab"
+  intro: "We study how agents learn to make good decisions under uncertainty — from the theory of bandits and policy optimization to reinforcement learning methods that pretrain, adapt, and transfer across domains. Our work spans provable algorithms and practical systems, with applications ranging from large language models to robotics and games."
+  openings:
+    - "(115年度碩博錄取生歡迎來信詢問) We are looking for highly motivated postdoctoral researchers, graduate students, undergraduate students, and research assistants interested in theoretical or system aspects of reinforcement learning, bandit learning, Bayesian optimization, and related areas. NYCU students are welcome to discuss research with Prof. Hsieh."
+    - "<b>Openings:</b> 1 postdoctoral position and multiple PhD positions in (1) reinforcement learning, (2) bandit learning, and (3) optimization. Please email Prof. Hsieh your CV and research interests."
+
+pi:
+  name: "Ping-Chun Hsieh"
+  zh: "謝秉均"
+  title: "Associate Professor"
+  photo: "assets/img/pi.jpg"
+  office: "EC 418, Engineering Building III, Guangfu Campus (光復校區工程三館 418 室)"
+  email: "pinghsieh [AT] nycu [DOT] edu [DOT] tw"
+  links:
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=ix38JgoAAAAJ&hl=en"
+    - label: CV
+      url: "https://pinghsieh.github.io/CV_PCHsieh_202604.pdf"
+    - label: "Personal page"
+      url: "https://pinghsieh.github.io/"
+    - label: Facebook
+      url: "https://www.facebook.com/tonyhsieh168"
+  interests: "Bandit learning, reinforcement learning, Bayesian optimization, meta learning, and optimization for networks."
+  bio:
+    - "Dr. Ping-Chun Hsieh is an Associate Professor in the <a href=\"https://www.cs.nycu.edu.tw\">Department of Computer Science</a> at <a href=\"https://www.nycu.edu.tw/en\">National Yang Ming Chiao Tung University (NYCU)</a>. Before joining NYCU, he was a Postdoctoral Researcher hosted by Professor <a href=\"https://cesg.tamu.edu/faculty/p-r-kumar/\">P. R. Kumar</a> in the <a href=\"https://cesg.tamu.edu/\">Computer Engineering and Systems Group (CESG)</a> at Texas A&amp;M University. He received his Ph.D. in Electrical and Computer Engineering from Texas A&amp;M University in August 2018 under the supervision of Professor <a href=\"https://cesg.tamu.edu/faculty/ihong-hou/\">I-Hong Hou</a>, and his B.S. in Electrical Engineering and M.S. in Electronics Engineering from National Taiwan University in 2011 and 2013."
+    - "His research received the Best Paper Awards from <a href=\"https://www.sigmobile.org/mobihoc/2020/awards.html\">ACM MobiHoc 2020</a> and <a href=\"https://cesg.tamu.edu/2017/12/11/best-paper-award-from-acm-mobihoc-2017/\">ACM MobiHoc 2017</a>. His research interests include reinforcement learning, multi-armed bandits, Bayesian optimization, and wireless networks."
+  awards:
+    - "Ta-You Wu Memorial Award (吳大猷先生紀念獎), 2026"
+    - "K. T. Li Young Researcher Award (李國鼎青年研究獎), 2025"
+    - "NYCU CS Outstanding Young Scholar Award (陽明交大資訊年輕學者卓越貢獻), 2025"
+    - "NYCU Outstanding Teaching Award (校級傑出教學獎), 2024"
+    - "NSTC 2030 Emerging Young Scholar Program (2030 新秀學者計畫), 2023"
+    - "NYCU Excellent Teaching Award (校級優良教學獎), 2022"
+    - "NYCU CS Award for Excellent Teaching in English (資訊學院英語教學獎), 2022, 2023, 2024"
+    - "Junior Faculty Award (黃培城青年講座), NYCU, 2020"
+    - "Best Paper Award, ACM MobiHoc 2020"
+    - "Young Scholar Fellowship (愛因斯坦培植計畫), Ministry of Science and Technology, 2019"
+    - "Best Paper Award, ACM MobiHoc 2017"
+    - "Outstanding PhD Student Award, ECE Department, Texas A&M University, 2016"
+    - "Government Scholarship to Study Abroad, Ministry of Education, Taiwan"
+  education:
+    - "Ph.D. in Electrical and Computer Engineering, Texas A&M University, 2018"
+    - "M.S. in Electronics Engineering, National Taiwan University, 2013"
+    - "B.S. in Electrical Engineering, National Taiwan University, 2011"
+  experience:
+    - where: "Department of Computer Science, NYCU, Hsinchu, Taiwan"
+      what: "Associate Professor (Aug. 2023 – present); Assistant Professor (Aug. 2019 – Jul. 2023)"
+    - where: "Texas A&M University, College Station, TX, USA"
+      what: "Postdoctoral Researcher (Sep. 2018 – Jun. 2019), advisor: Prof. P. R. Kumar"
+    - where: "AT&T Labs, Austin, TX, USA"
+      what: "Summer Research Intern (Jul. – Aug. 2017): An Experimental Study on LTE CAT-M for Machine-Type Communication"
+    - where: "Massachusetts Institute of Technology, Cambridge, MA, USA"
+      what: "Visiting Researcher (Jun. – Jul. 2017), host: <a href=\"https://modiano.mit.edu/\">Prof. Eytan Modiano</a>"
+    - where: "MediaTek USA Inc., San Jose, CA, USA"
+      what: "Wireless System Engineering Intern (May – Aug. 2016): An OMNeT-Based Simulator for License Assisted Access (LAA)"
+    - where: "Noveltek Semiconductor Corp., Hsinchu, Taiwan"
+      what: "R&amp;D Engineer for Power ICs (Jul. 2013 – Aug. 2014)"
+    - where: "Industrial Technology Research Institute (ITRI), Hsinchu, Taiwan"
+      what: "Summer Research Intern (Jun. – Aug. 2012): Multilevel Converters for Photo-Voltaic Applications"
+
+talks:
+  - title: "Exploration Through Reward Biasing: Bandit Learning via Reward-Biased Maximum Likelihood Estimation"
+    where: ["TAAI AI Forum, National Taipei University of Technology, October 2021"]
+  - title: "Rethinking Policy Improvement in Reinforcement Learning: Two Case Studies"
+    where: ["Neuroscience Seminar, National Yang Ming Chiao Tung University, September 2021"]
+  - title: "Reinforcement Learning and Bandits: Two Case Studies"
+    where:
+      - "Computer Science Seminar, National Taiwan Normal University, April 2021, Taipei, Taiwan"
+  - title: "Bandit Learning: Addressing Explore-Exploit Dilemma With No Regret"
+    where:
+      - "Computer Science Seminar, National Chiao Tung University, November 2020, Hsinchu, Taiwan"
+  - title: "Bandit Learning: Optimality, Scalability, and Reneging"
+    where:
+      - "Communication Engineering Seminar, National Taipei University, December 2019, Taipei, Taiwan"
+  - title: "Stay With Me: Lifetime Maximization Through Heteroscedastic Linear Bandits With Reneging"
+    url: "https://drive.google.com/open?id=1F4XBNRJ4MSHxyWwsG25ZnY-1pqDAeZ1w"
+    where: ["ICML, June 2019, Long Beach, CA, USA"]
+  - title: "Providing Ultra-Low Latency for Wireless Networks: From Theory to Practice"
+    url: "https://drive.google.com/file/d/1FCQdYp5MIjSs8MQ6Rv-CU6J6QdLHAvv9/view?usp=sharing"
+    where: ["CS Department, National Chiao Tung University, November 2018, Hsinchu, Taiwan"]
+  - title: "PULS: Processor-Supported Ultra-Low Latency Scheduling"
+    url: "https://drive.google.com/file/d/1FFr1NNzjYiFzo52Xd5D-MN5gixhPJjZe/view?usp=sharing"
+    where: ["TAMU ECE Seminar, November 2018, College Station, TX, USA"]
+  - title: "Throughput-Optimal Scheduling for Multi-Hop Networked Transportation Systems With Switch-Over Delay"
+    url: "https://drive.google.com/open?id=1FJlWH5teUQvxsNrDhUAx5GhXbijuiPw5"
+    where:
+      - "ITA Graduation Day, February 2018, San Diego, CA, USA"
+      - "ACM MobiHoc, July 2017, Chennai, India"
+  - title: "IoT-Oriented Network Algorithms: Theory and Implementation"
+    where:
+      - "CS Department, National Chiao Tung University, December 2017, Hsinchu, Taiwan"
+      - "EE Department, National Tsing Hua University, December 2017, Hsinchu, Taiwan"
+      - "Communication Engineering Seminar, National Taiwan University, December 2017, Taipei, Taiwan"
+      - "EE Seminar, National Cheng Kung University, December 2017, Tainan, Taiwan"
+      - "CITI, Academia Sinica, December 2017, Taipei, Taiwan"
+  - title: "An Experimental Study on Coverage Enhancement of LTE Cat-M1 for Machine-Type Communication"
+    where: ["IEEE ICC, May 2018, Kansas City, MO, USA"]
+  - title: "Heavy-Traffic Analysis of QoE Optimality for On-Demand Video Streams Over Fading Channels"
+    where: ["IEEE INFOCOM, April 2016, San Francisco, CA, USA"]
+  - title: "WiMAC: Rapid Implementation Platform for User Definable MAC Protocols Through Separation"
+    where: ["ACM SIGCOMM (demo), August 2015, London, UK"]
+  - title: "QoE-Optimal Scheduling for On-Demand Video Streams Over Unreliable Wireless Networks"
+    where: ["ACM MobiHoc, June 2015, Hangzhou, China"]
+  - title: "Maximum-Throughput Intersection Scheduling in Connected Environment with Switch-Over Time"
+    where:
+      - "Connected Vehicle Workshop, 1st Texas A&M Transportation Technology Conference, May 2016, College Station, TX, USA"
+
+tutorials:
+  - title: "Physical AI: From Simulation to Cross-Domain Robot Learning on AI PCs"
+    event: "Tutorial at Ubiquitous Robots (UR) 2026"
+    organizers: "Shan-Ya Yang (AMD), Jiahua Lu (AMD), Ping-Chun Hsieh (NYCU), Ming-Hong Chen (NYCU), You-De Huang (NYCU)"
+    abstract: "Physical AI is opening new opportunities for robotics, yet many current workflows remain fragmented across edge hardware, simulation, and robot learning pipelines. This tutorial presents an end-to-end and fully open-source workflow for developing Physical AI and robot learning workflow. The tutorial first introduces AI PCs as an accessible platform for robotics. By combining CPUs, iGPUs, and NPUs, AI PCs enable perception and robot policy to run close to the physical system. Participants will learn how such edge hardware can support robotics workloads including ROS-based pipelines, local LLM agents, and VLM/VLA-enabled applications. The tutorial then demonstrates how edge computing resources can be used to build a robotic simulation platform for Physical AI. Using the open-source simulation Platform Genesis with the open-source ROCm stack, participants will learn how simulation supports robot testing and training before deployment to real-world systems. Hands-on content includes importing a robotic arm into a virtual environment, performing inverse-kinematics motion control, and implementing parallelized simulation environments for scalable experimentation. Building on this foundation, the tutorial introduces reinforcement learning in simulation as a practical robotics workflow. It covers task design, policy training in digital twins, and behavior adaptation under changing conditions. A central focus is cross-domain learning and cross-robot transfer: how knowledge transfer and pre-trained policy adaptation can be achieved across robot arms with similar degrees of freedom and joint structures, even when the robot models differ. A key strength of this tutorial is its strong commitment to the open-source ecosystem. All demonstrations and hands-on materials will be released with full source code on GitHub, enabling attendees to reproduce the workflows for research and education. Overall, this tutorial provides a reproducible and scalable pathway for developing Physical AI on affordable edge platforms."
+    links:
+      - label: Slides
+        url: "https://drive.google.com/file/d/1riTJzStJCMwnN_cxnp_lJQcXRwz4KUui/view?usp=sharing"
+      - label: "Source code"
+        url: "https://github.com/AMDResearch/aup-teaching-labs/tree/main"
+
+orientation:
+  - title: "Fantastic Papers and Where to Find Them"
+    url: "https://drive.google.com/file/d/18DCauqHyIE1lSCJVsAgHlLxlkdMm61WR/view?usp=sharing"
+  - title: "Paper Reading and Beyond"
+    url: "https://drive.google.com/file/d/18HB6A4tluY7ZLQUcZ0enu75gpW3eHAbR/view?usp=sharing"
+  - title: "Find Your Screwdrivers for Research — An Introduction to Debugging and Useful Tools"
+    url: "https://drive.google.com/file/d/18G64MGafehMa1mVtJj8yhBhxSsmF_pNE/view?usp=sharing"
+
+groupPhoto: "assets/img/group.jpg"
+
+life:
+  - date: "Jan. 2025"
+    caption: "Lab gathering @ 享鴨"
+    img: "assets/img/life/20250110_lab_lunch.jpg"
+  - date: "Aug. 2024"
+    caption: "Lab gathering @ 托斯卡尼尼"
+    img: "assets/img/life/20240821_lab_lunch.jpg"
+  - date: "Dec. 2023"
+    caption: "Lab dinner @ 饗食天堂"
+    img: "assets/img/life/202312_lab_dinner.jpg"
+  - date: "Dec. 2022"
+    caption: "Lab lunch @ Eisen Bistro (艾昇小館)"
+    img: "assets/img/life/202212_lab_lunch.jpg"
+  - date: "Aug. 2022"
+    caption: "Lab gathering @ 惠蓀咖啡"
+    img: "assets/img/life/202208_lab_nymu.jpg"
+  - date: "Nov. 2021"
+    caption: "Lab dinner @ Tasty"
+    img: "assets/img/life/202111_lab_dinner.jpg"
+  - date: "Jun. 2020"
+    caption: "Lab gathering @ 阿彤北"
+    img: "assets/img/life/202006_lab_dinner.jpg"
+  - date: "Aug. 2019"
+    caption: "Lab dinner @ La Petite Table (小方桌)"
+    img: "assets/img/life/201908_lab_dinner.jpg"

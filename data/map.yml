@@ -1,0 +1,385 @@
+title: "World of Adaptive Decision Intelligence"
+
+types:
+  foundation: { label: Foundation, color: "#b5893b" }
+  core: { label: Core, color: "#2f5f7a" }
+  frontier: { label: Frontier, color: "#5f4a85" }
+  application: { label: Application, color: "#4f7a4a" }
+
+continents:
+  - id: pretraining
+    name: "RL Pre-Training"
+    color: "#6f8a4a"
+    cx: 420
+    cy: 235
+    rx: 300
+    ry: 180
+    seed: 11
+    desc: "Learning reusable decision-making priors from offline, reward-free, or large-scale data before the downstream task is known."
+
+  - id: adaptation
+    name: "Test-Time Adaptation"
+    color: "#b8683c"
+    cx: 1280
+    cy: 240
+    rx: 305
+    ry: 188
+    seed: 23
+    desc: "Adapting agents and models at deployment time: inferring rewards, planning at decision time, and aligning without retraining."
+
+  - id: transfer
+    name: "Transfer & Generalization"
+    label: "Transfer"
+    color: "#7d6596"
+    cx: 410
+    cy: 668
+    rx: 305
+    ry: 172
+    seed: 37
+    desc: "Carrying knowledge across domains, embodiments, tasks, and objectives."
+
+  - id: optimization
+    name: "Bandits & Optimization Theory"
+    label: "Bandits & Optimization"
+    color: "#b2902f"
+    cx: 1280
+    cy: 660
+    rx: 315
+    ry: 178
+    seed: 5
+    desc: "The theoretical backbone of the lab: bandit learning, Bayesian optimization, and provably convergent policy optimization."
+
+  - id: constrained-isle
+    name: "Constrained RL"
+    color: "#4f7a5e"
+    cx: 850
+    cy: 760
+    rx: 88
+    ry: 60
+    seed: 3
+    island: true
+    desc: "Reinforcement learning under hard action and safety constraints."
+
+  - id: archipelagos
+    name: "Skills, Benchmarks & Applications"
+    color: "#9c8461"
+    archipelago: true
+    desc: "Small islands where the lab's methods meet skills, benchmarks, and real-world problems."
+
+regions:
+
+  - id: rl-data-curation
+    name: "RL Data Curation"
+    continent: pretraining
+    type: foundation
+    x: 265
+    y: 165
+    progress: 0
+    desc: "Selecting and composing offline datasets so that pretrained agents transfer well."
+
+  - id: pretraining-objectives
+    name: "Pretraining Objectives"
+    continent: pretraining
+    type: core
+    x: 425
+    y: 130
+    progress: 10
+    desc: "What should a decision-making model optimize before it sees a reward?"
+
+  - id: decision-representation-learning
+    name: "Decision Representation Learning"
+    continent: pretraining
+    type: core
+    x: 590
+    y: 150
+    progress: 45
+    desc: "Reward-free representations (e.g., forward–backward) that support zero-shot policy extraction."
+
+  - id: world-model-pretraining
+    name: "World Model Pretraining"
+    continent: pretraining
+    type: frontier
+    x: 275
+    y: 300
+    progress: 0
+    desc: "Pretraining dynamics models that downstream planners and policies can reuse."
+
+  - id: scaling-laws-rl
+    name: "Scaling Laws for RL"
+    continent: pretraining
+    type: frontier
+    x: 440
+    y: 320
+    progress: 0
+    desc: "How returns scale with data, model size, and compute in decision making."
+
+  - id: offline-to-online-transfer
+    name: "Offline-to-Online Transfer"
+    continent: pretraining
+    type: core
+    x: 595
+    y: 295
+    progress: 35
+    desc: "Offline RL and the hand-off from logged data to online interaction."
+
+  - id: rapid-policy-adaptation
+    name: "Rapid Policy Adaptation"
+    continent: adaptation
+    type: core
+    x: 1105
+    y: 160
+    progress: 10
+    desc: "Adapting a pretrained policy to a new task from a handful of interactions."
+
+  - id: test-time-reward-inference
+    name: "Test-Time Reward Inference"
+    continent: adaptation
+    type: frontier
+    x: 1280
+    y: 125
+    progress: 40
+    desc: "Inferring the task reward at deployment from preferences, demonstrations, or feedback."
+
+  - id: decision-time-planning-mpc
+    name: "Decision-Time Planning and MPC"
+    continent: adaptation
+    type: core
+    x: 1450
+    y: 165
+    progress: 45
+    desc: "Model-predictive control and Monte-Carlo planning at inference time."
+
+  - id: in-context-rl
+    name: "In-Context Reinforcement Learning"
+    continent: adaptation
+    type: frontier
+    x: 1110
+    y: 300
+    progress: 15
+    desc: "Sequence models that improve their behavior from context alone, without weight updates."
+
+  - id: safe-test-time-learning
+    name: "Safe Test-Time Learning"
+    continent: adaptation
+    type: application
+    x: 1320
+    y: 290
+    progress: 30
+    desc: "Detecting and mitigating unsafe or adversarial behavior while the agent is deployed."
+
+  - id: test-time-alignment
+    name: "Test-Time Alignment"
+    continent: adaptation
+    type: frontier
+    x: 1235
+    y: 370
+    progress: 55
+    desc: "Aligning large language models to preferences at inference time via planning."
+
+  - id: continual-deployment-adaptation
+    name: "Continual Deployment Adaptation"
+    continent: adaptation
+    type: application
+    x: 1460
+    y: 300
+    progress: 0
+    desc: "Agents that keep adapting over long deployments under drifting conditions."
+
+  - id: domain-invariant-representation
+    name: "Domain-Invariant Representation"
+    continent: transfer
+    type: foundation
+    x: 240
+    y: 590
+    progress: 25
+    desc: "Representations that align states and actions across domains."
+
+  - id: rl-domain-adaptation
+    name: "RL Domain Adaptation"
+    continent: transfer
+    type: core
+    x: 420
+    y: 560
+    progress: 60
+    desc: "Cross-domain policy transfer under distinct state–action spaces."
+
+  - id: multi-task-rl
+    name: "Multi-Task Reinforcement Learning"
+    continent: transfer
+    type: frontier
+    x: 590
+    y: 565
+    progress: 0
+    desc: "Sharing structure across many tasks learned jointly."
+
+  - id: meta-rl
+    name: "Meta-Reinforcement Learning"
+    continent: transfer
+    type: frontier
+    x: 215
+    y: 720
+    progress: 35
+    desc: "Learning to learn, including learned optimizers and acquisition functions."
+
+  - id: sim-to-real
+    name: "Simulation-to-Reality Transfer"
+    continent: transfer
+    type: application
+    x: 365
+    y: 735
+    progress: 35
+    desc: "Robust policies that survive the gap between simulators and physical systems."
+
+  - id: compositional-skill-transfer
+    name: "Compositional Skill Transfer"
+    continent: transfer
+    type: frontier
+    x: 515
+    y: 730
+    progress: 0
+    desc: "Re-composing learned skills to solve new tasks."
+
+  - id: multi-objective-rl
+    name: "Multi-Objective RL"
+    continent: transfer
+    type: frontier
+    x: 625
+    y: 690
+    progress: 75
+    desc: "Learning policies for every trade-off between competing objectives."
+
+  - id: contextual-bandit-optimization
+    name: "Contextual Bandit Optimization"
+    continent: optimization
+    type: core
+    x: 1150
+    y: 560
+    progress: 85
+    desc: "Exploration via reward biasing (RBMLE) for multi-armed, linear, and neural contextual bandits."
+
+  - id: bayesian-optimization
+    name: "Bayesian Optimization"
+    continent: optimization
+    type: core
+    x: 1420
+    y: 565
+    progress: 70
+    desc: "Sample-efficient black-box optimization, including learned acquisition functions."
+
+  - id: stochastic-gradient-bandits
+    name: "Stochastic Gradient Bandits"
+    continent: optimization
+    type: frontier
+    x: 1045
+    y: 655
+    progress: 0
+    desc: "Policy-gradient style algorithms for bandits and their convergence."
+
+  - id: non-stationary-bandits
+    name: "Non-Stationary Bandits"
+    continent: optimization
+    type: core
+    x: 1232
+    y: 740
+    progress: 30
+    desc: "Bandits whose reward distributions change over time."
+
+  - id: first-order-policy-optimization
+    name: "First-Order Policy Optimization"
+    continent: optimization
+    type: application
+    x: 1500
+    y: 680
+    progress: 80
+    desc: "Global convergence of policy gradient, PPO-Clip, coordinate ascent, and Nesterov acceleration."
+
+  - id: restless-bandits
+    name: "Restless Bandits"
+    continent: optimization
+    type: frontier
+    x: 1095
+    y: 750
+    progress: 55
+    desc: "Whittle-index learning and piecewise-stationary restless bandits."
+
+  - id: zeroth-order-policy-optimization
+    name: "Zeroth-Order Policy Optimization"
+    continent: optimization
+    type: frontier
+    x: 1380
+    y: 760
+    progress: 0
+    desc: "Gradient-free policy search with provable guarantees."
+
+  - id: constrained-rl
+    name: "Constrained RL"
+    continent: constrained-isle
+    type: application
+    x: 850
+    y: 760
+    progress: 100
+    desc: "Action-constrained RL and imitation learning: Frank–Wolfe policy optimization, acceptance–rejection with augmented MDPs, and constrained imitation."
+
+  - id: skill-archipelago
+    name: "Skill Archipelago"
+    continent: archipelagos
+    type: frontier
+    x: 380
+    y: 960
+    progress: 0
+    islands: 4
+    desc: "Reusable skills discovered without task supervision."
+
+  - id: benchmark-archipelago
+    name: "Benchmark Archipelago"
+    continent: archipelagos
+    type: foundation
+    x: 850
+    y: 960
+    progress: 0
+    islands: 3
+    desc: "Benchmarks and baselines released by the lab."
+
+  - id: real-world-applications
+    name: "Real-World Application Islands"
+    continent: archipelagos
+    type: application
+    x: 1300
+    y: 960
+    progress: 60
+    islands: 5
+    label: "Real-World\nApplication Islands"
+    desc: "Sports analytics, games, machine translation, video coding, and dynamical systems."
+
+compass:
+  x: 850
+  y: 445
+seas:
+  - name: "Ocean of Uncertainty"
+    x: 850
+    y: 105
+  - name: "Sea of Distribution Shift"
+    x: 215
+    y: 462
+  - name: "Sea of Sparse Rewards"
+    x: 1500
+    y: 448
+  - name: "Open-World Ocean"
+    x: 850
+    y: 598
+routes:
+  - name: "Pretraining-to-Adaptation Route"
+    d: "M 745 250 Q 850 335 955 250"
+  - name: "Representation Trade Route"
+    d: "M 640 420 Q 770 470 680 560"
+  - name: "Safe Deployment Route"
+    d: "M 1060 420 Q 930 470 1020 555"
+ranges:
+  - name: "Great Algorithmic Range"
+    x: 45
+    y1: 140
+    y2: 520
+  - name: "Frontier Range"
+    x: 1655
+    y1: 140
+    y2: 520

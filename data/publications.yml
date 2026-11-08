@@ -1,0 +1,630 @@
+- id: C43
+  type: conference
+  year: 2026
+  title: "From Reward-Free Representations to Preferences: Rethinking Offline Preference-Based Reinforcement Learning"
+  authors: "Jun-Jie Yang, Chia-Heng Hsu, Kui-Yuan Chen, and Ping-Chun Hsieh"
+  venue: ICML
+  venueFull: "International Conference on Machine Learning (ICML), 2026"
+  note: "Acceptance rate = 26.6%"
+  links:
+    paper: "https://arxiv.org/abs/2606.01123"
+    project: "https://rl-bandits-lab.github.io/FB-PbRL/"
+  regions: [decision-representation-learning, test-time-reward-inference]
+
+- id: C42
+  type: conference
+  year: 2026
+  title: "Plan2Cleanse: Test-Time Backdoor Defense via Monte-Carlo Planning in Deep Reinforcement Learning"
+  authors: "Sze-Ann Chen, Zhi-Yi Chin, Kui-Yuan Chen, Chi-Yu Li, and Ping-Chun Hsieh"
+  venue: TMLR
+  venueFull: "Transactions on Machine Learning Research (TMLR), 2026"
+  links:
+    paper: "https://openreview.net/forum?id=ZKhKxqwuPu"
+  regions: [safe-test-time-learning, decision-time-planning-mpc]
+
+- id: C41
+  type: conference
+  year: 2026
+  title: "A Reward-Free Viewpoint on Multi-Objective Reinforcement Learning"
+  authors: "Ying-Tu Chen*, Wei Hung*, Bing-Shu Wu*, Zhang-Wei Hong, and Ping-Chun Hsieh"
+  equal: "*: equal contribution"
+  venue: ICLR
+  venueFull: "International Conference on Learning Representations (ICLR), 2026"
+  note: "Acceptance rate = 28%"
+  links:
+    paper: "https://arxiv.org/abs/2604.24532"
+    project: "https://rl-bandits-lab.github.io/MORL-FB/"
+  regions: [multi-objective-rl, decision-representation-learning]
+
+- id: C40
+  type: conference
+  year: 2026
+  title: "Test-Time Alignment for Large Language Models via Textual Model Predictive Control"
+  authors: "Kuang-Da Wang*, Teng-Ruei Chen*, Yu Heng Hung, Guo-Xun Ko, Shuoyang Ding, Yueh-Hua Wu, Yu-Chiang Frank Wang, Chao-Han Huck Yang, Wen-Chih Peng, and Ping-Chun Hsieh"
+  equal: "*: equal contribution"
+  venue: ICLR
+  venueFull: "International Conference on Learning Representations (ICLR), 2026"
+  note: "Acceptance rate = 28%"
+  links:
+    paper: "https://arxiv.org/abs/2502.20795"
+    project: "https://rl-bandits-lab.github.io/TMPC/"
+  regions: [test-time-alignment, decision-time-planning-mpc]
+
+- id: C39
+  type: conference
+  year: 2026
+  title: "Cross-Domain Policy Optimization via Bellman Consistency and Hybrid Critics"
+  authors: "Ming-Hong Chen*, Kuan-Chen Pan*, You-De Huang*, Xi Liu, and Ping-Chun Hsieh"
+  equal: "*: equal contribution"
+  venue: ICLR
+  venueFull: "International Conference on Learning Representations (ICLR), 2026"
+  note: "Acceptance rate = 28%"
+  links:
+    paper: "https://arxiv.org/abs/2603.12087"
+    project: "https://rl-bandits-lab.github.io/Cross-Domain-RL/"
+  regions: [rl-domain-adaptation]
+
+- id: C38
+  type: conference
+  year: 2026
+  title: "Enhancing Offline Model-Based RL via Active Model Selection: A Bayesian Optimization Perspective"
+  authors: "Yu-Wei Yang, Wei Hung, Yun-Ming Chan, Xi Liu, and Ping-Chun Hsieh"
+  venue: ECML-PKDD
+  venueFull: "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD Journal Track), 2026"
+  extra: "The paper is also accepted for the Springer Machine Learning Journal"
+  regions: [bayesian-optimization, offline-to-online-transfer]
+
+- id: C37
+  type: conference
+  year: 2026
+  title: "Quality and Diversity Optimization Even From Offline Homogeneous Dataset"
+  authors: "Ziyu Wang, Kartik Chandra, Charles Sosmena, Ping-Chun Hsieh, Tzu-Mao Li, Yu-Shuen Wang, and Yun-Hsuan Lien"
+  venue: ECML-PKDD
+  venueFull: "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD Conference Track), 2026"
+  note: "Acceptance rate = 24%"
+  links:
+    paper: "https://link.springer.com/article/10.1007/s10994-026-07119-6"
+  regions: []
+
+- id: C36
+  type: conference
+  year: 2026
+  title: "A Modularized Framework for Piecewise-Stationary Restless Bandits"
+  authors: "Kuan-Ta Li, Chia-Chun Lin, Ping-Chun Hsieh, and Yu-Chih Huang"
+  venue: AISTATS
+  venueFull: "International Conference on Artificial Intelligence and Statistics (AISTATS), 2026"
+  note: "Spotlight; Acceptance rate = 28%"
+  links:
+    paper: "https://arxiv.org/abs/2604.10177"
+  regions: [restless-bandits, non-stationary-bandits]
+
+- id: C35
+  type: conference
+  year: 2026
+  title: "Semi-Supervised Cross-Domain Imitation Learning"
+  authors: "Li-Min Chu, Kai-Siang Ma, Ming-Hong Chen, and Ping-Chun Hsieh"
+  venue: TMLR
+  venueFull: "Transactions on Machine Learning Research (TMLR), 2026"
+  links:
+    paper: "https://arxiv.org/abs/2602.10793"
+    code: "https://github.com/rl-bandits-lab/CDIL"
+  regions: [rl-domain-adaptation, domain-invariant-representation]
+
+- id: C34
+  type: conference
+  year: 2025
+  title: "Learning Human-Like RL Agents Through Trajectory Optimization With Action Quantization"
+  authors: "Jian-Ting Guo, Yu-Cheng Chen, Ping-Chun Hsieh, Kuo-Hao Ho, Po-Wei Huang, Ti-Rong Wu, and I-Chen Wu"
+  venue: NeurIPS
+  venueFull: "Conference on Neural Information Processing Systems (NeurIPS), 2025"
+  note: "Acceptance rate = 24.52%"
+  links:
+    paper: "https://arxiv.org/abs/2511.15055"
+    project: "https://rlg.iis.sinica.edu.tw/papers/MAQ/"
+  regions: [real-world-applications]
+
+- id: C33
+  type: conference
+  year: 2025
+  title: "Extending Automatic Machine Translation Evaluation to Book-Length Documents"
+  authors: "Kuang-Da Wang, Shuoyang Ding, Chao-Han Huck Yang, Ping-Chun Hsieh, Wen-Chih Peng, Vitaly Lavrukhin, and Boris Ginsburg"
+  venue: EMNLP
+  venueFull: "Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025"
+  note: "Acceptance rate = 22.16%"
+  regions: [real-world-applications]
+
+- id: C32
+  type: conference
+  year: 2025
+  title: "Relaxed Transition Kernels can Cure Underestimation in Adversarial Offline Reinforcement Learning"
+  authors: "Ziyu Wang, Ping-Chun Hsieh, Yu-Shuen Wang, and Yun-Hsuan Lien"
+  venue: ACML
+  venueFull: "Asian Conference on Machine Learning (ACML), 2025"
+  regions: [offline-to-online-transfer]
+
+- id: C31
+  type: conference
+  year: 2025
+  title: "Action-Constrained Imitation Learning"
+  authors: "Chia-Han Yeh*, Tse-Sheng Nan*, Risto Vuorio, Wei Hung, Hung Yen Wu, Shao-Hua Sun, and Ping-Chun Hsieh"
+  equal: "*: equal contribution"
+  venue: ICML
+  venueFull: "International Conference on Machine Learning (ICML), 2025"
+  note: "Acceptance rate = 26.9%"
+  links:
+    paper: "https://openreview.net/forum?id=NYi9B34E1e"
+    code: "https://github.com/NYCU-RL-Bandits-Lab/ACRL-Baselines"
+    video: "https://icml.cc/virtual/2025/poster/45492"
+  regions: [constrained-rl]
+
+- id: C30
+  type: conference
+  year: 2025
+  title: "Efficient Action-Constrained Reinforcement Learning via Acceptance-Rejection Method and Augmented MDPs"
+  authors: "Wei Hung, Shao-Hua Sun, and Ping-Chun Hsieh"
+  venue: ICLR
+  venueFull: "International Conference on Learning Representations (ICLR), 2025"
+  note: "Acceptance rate = 32%"
+  links:
+    paper: "https://openreview.net/forum?id=AgMpK7z4bz"
+    code: "https://github.com/NYCU-RL-Bandits-Lab/ARAM"
+    video: "https://iclr.cc/virtual/2025/poster/30623"
+  regions: [constrained-rl]
+
+- id: C29
+  type: conference
+  year: 2025
+  title: "BOFormer: Learning to Solve Multi-Objective Bayesian Optimization via Non-Markovian RL"
+  authors: "Yu-Heng Hung, Kai-Jie Lin, Yu-Heng Lin, Chien-Yi Wang*, Cheng Sun, and Ping-Chun Hsieh*"
+  equal: "*: equal advising"
+  venue: ICLR
+  venueFull: "International Conference on Learning Representations (ICLR), 2025"
+  note: "Acceptance rate = 32%"
+  extra: "An extended version of our ICML 2024 AutoRL Workshop paper"
+  links:
+    paper: "https://openreview.net/forum?id=UnCKU8pZVe"
+    project: "https://hungyuheng.github.io/BOFormer/"
+    code: "https://github.com/NYCU-RL-Bandits-Lab/BOFormer"
+    video: "https://iclr.cc/virtual/2025/poster/29456"
+  regions: [bayesian-optimization, meta-rl]
+
+- id: C28
+  type: conference
+  year: 2025
+  title: "DDOT: A Derivative-directed Dual-decoder Ordinary Differential Equation Transformer for Dynamic System Modeling"
+  authors: "Yang Chang, Kuang-Da Wang, Ping-Chun Hsieh, Cheng-Kuan Lin, and Wen-Chih Peng"
+  venue: PAKDD
+  venueFull: "Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2025"
+  links:
+    paper: "https://link.springer.com/chapter/10.1007/978-981-96-8180-8_34"
+  regions: [real-world-applications]
+
+- id: C27
+  type: conference
+  year: 2024
+  title: "Diffusion-Reward Adversarial Imitation Learning"
+  authors: "Chun-Mao Lai*, Hsiang-Chun Wang*, Ping-Chun Hsieh, Yu-Chiang Frank Wang, Min-Hung Chen, and Shao-Hua Sun"
+  equal: "*: equal contribution"
+  venue: NeurIPS
+  venueFull: "Conference on Neural Information Processing Systems (NeurIPS), 2024"
+  note: "Acceptance rate = 25.8%"
+  links:
+    paper: "https://arxiv.org/abs/2405.16194"
+  regions: []
+
+- id: C26
+  type: conference
+  year: 2024
+  title: "Accelerated Policy Gradient: On the Convergence Rates of the Nesterov Momentum for Reinforcement Learning"
+  authors: "Yen-Ju Chen, Nai-Chieh Huang, Ching-pei Lee, and Ping-Chun Hsieh"
+  venue: ICML
+  venueFull: "International Conference on Machine Learning (ICML), 2024"
+  note: "Acceptance rate = 27.5%"
+  extra: "An extended version of our ICML 2023 Frontiers4LCD Workshop paper"
+  links:
+    paper: "https://proceedings.mlr.press/v235/chen24t.html"
+  regions: [first-order-policy-optimization]
+
+- id: C25
+  type: conference
+  year: 2024
+  title: "Enhancing Value Function Estimation through First-Order State-Action Dynamics in Offline Reinforcement Learning"
+  authors: "Yun-Hsuan Lien, Ping-Chun Hsieh, Tzu-Mao Li, Yu-Shuen Wang"
+  venue: ICML
+  venueFull: "International Conference on Machine Learning (ICML), 2024"
+  note: "Acceptance rate = 27.5%"
+  links:
+    paper: "https://proceedings.mlr.press/v235/lien24a.html"
+  regions: [offline-to-online-transfer]
+
+- id: C24
+  type: conference
+  year: 2024
+  title: "Offline Imitation of Badminton Player Behavior via Experiential Contexts and Brownian Motion"
+  authors: "Kuang-Da Wang, Wei-Yao Wang, Ping-Chun Hsieh, and Wen-Chih Peng"
+  venue: ECML-PKDD
+  venueFull: "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2024"
+  note: "Acceptance rate = 24.5%"
+  links:
+    paper: "https://arxiv.org/abs/2403.12406"
+  regions: [real-world-applications]
+
+- id: C23
+  type: conference
+  year: 2024
+  title: "PPO-Clip Attains Global Optimality: Towards Deeper Understandings of Clipping"
+  authors: "Nai-Chieh Huang, Ping-Chun Hsieh, Kuo-Hao Ho, and I-Chen Wu"
+  venue: AAAI
+  venueFull: "AAAI Conference on Artificial Intelligence (AAAI), 2024"
+  note: "Acceptance rate = 23.75%"
+  links:
+    paper: "https://arxiv.org/abs/2312.12065"
+  regions: [first-order-policy-optimization]
+
+- id: C22
+  type: conference
+  year: 2023
+  title: "Towards Human-Like RL: Taming Non-Naturalistic Behavior in Deep RL via Adaptive Behavioral Costs in 3D Games"
+  authors: "Kuo-Hao Ho, Ping-Chun Hsieh, Chiu-Chou Lin, You-Ren Luo, Feng-Jian Wang, and I-Chen Wu"
+  venue: ACML
+  venueFull: "Asian Conference on Machine Learning (ACML), 2023"
+  note: "Long Oral; Acceptance rate = 35%"
+  links:
+    paper: "https://arxiv.org/abs/2309.15484"
+  regions: [real-world-applications]
+
+- id: C21
+  type: conference
+  year: 2023
+  title: "Revisiting Domain Randomization via Relaxed State-Adversarial Policy Optimization"
+  authors: "Yun-Hsuan Lien, Ping-Chun Hsieh, and Yu-Shuen Wang"
+  venue: ICML
+  venueFull: "International Conference on Machine Learning (ICML), 2023"
+  note: "Acceptance rate = 28%"
+  links:
+    paper: "https://proceedings.mlr.press/v202/lien23a.html"
+  regions: [sim-to-real]
+
+- id: C20
+  type: conference
+  year: 2023
+  title: "Q-Pensieve: Boosting Sample Efficiency of Multi-Objective RL Through Memory Sharing of Q-Snapshots"
+  authors: "Wei Hung*, Bo-Kai Huang*, Ping-Chun Hsieh, and Xi Liu"
+  equal: "*: equal contribution"
+  venue: ICLR
+  venueFull: "International Conference on Learning Representations (ICLR), 2023"
+  note: "Acceptance rate = 31.8%"
+  links:
+    paper: "https://arxiv.org/abs/2212.03117"
+  regions: [multi-objective-rl]
+
+- id: C19
+  type: conference
+  year: 2023
+  title: "Coordinate Ascent for Off-Policy RL with Global Convergence Guarantees"
+  authors: "Hsin-En Su*, Yen-Ju Chen*, Ping-Chun Hsieh, and Xi Liu"
+  equal: "*: equal contribution"
+  venue: AISTATS
+  venueFull: "International Conference on Artificial Intelligence and Statistics (AISTATS), 2023"
+  note: "Acceptance rate = 29%"
+  links:
+    paper: "https://arxiv.org/abs/2212.05237"
+  regions: [first-order-policy-optimization]
+
+- id: C18
+  type: conference
+  year: 2023
+  title: "Reward-Biased Maximum Likelihood Estimation for Neural Contextual Bandits: A Distributional Learning Perspective"
+  authors: "Yu-Heng Hung and Ping-Chun Hsieh"
+  venue: AAAI
+  venueFull: "AAAI Conference on Artificial Intelligence (AAAI), 2023"
+  note: "Oral; Acceptance rate = 19.6%"
+  links:
+    paper: "https://arxiv.org/abs/2203.04192"
+  regions: [contextual-bandit-optimization]
+
+- id: C17
+  type: conference
+  year: 2022
+  title: "Neural Frank-Wolfe Policy Optimization for Region-of-Interest Intra-Frame Coding with HEVC/H.265"
+  authors: "Yung-Han Ho, Chia-Hao Kao, Wen-Hsiao Peng, and Ping-Chun Hsieh"
+  venue: VCIP
+  venueFull: "IEEE Visual Communications and Image Processing (VCIP), 2022"
+  links:
+    paper: "https://arxiv.org/abs/2209.13210"
+  regions: [constrained-rl, real-world-applications]
+
+- id: C16
+  type: conference
+  year: 2022
+  title: "Deterministic Bandwidth-Based Packet-Level Traffic Splitting for Datacenter Networks"
+  authors: "Cheng-Yu Wu, Li-Hsing Yen, Ping-Chun Hsieh, and Chien-Chao Tseng"
+  venue: APNOMS
+  venueFull: "Asia-Pacific Network Operations and Management Symposium (APNOMS), 2022"
+  award: "Best Paper Award"
+  links:
+    paper: "https://ieeexplore.ieee.org/document/9919945/"
+  regions: []
+
+- id: C15
+  type: conference
+  year: 2021
+  title: "Reinforced Few-Shot Acquisition Function Learning for Bayesian Optimization"
+  authors: "Bing-Jing Hsieh, Ping-Chun Hsieh, and Xi Liu"
+  venue: NeurIPS
+  venueFull: "Conference on Neural Information Processing Systems (NeurIPS), 2021"
+  note: "Acceptance rate = 26%"
+  links:
+    paper: "https://arxiv.org/abs/2106.04335"
+  regions: [bayesian-optimization, meta-rl]
+
+- id: C14
+  type: conference
+  year: 2021
+  title: "NeurWIN: Neural Whittle Index Network For Restless Bandits Via Deep RL"
+  authors: "Khaled Nakhleh, Santosh Ganji, Ping-Chun Hsieh, I-Hong Hou, and Srinivas Shakkottai"
+  venue: NeurIPS
+  venueFull: "Conference on Neural Information Processing Systems (NeurIPS), 2021"
+  note: "Acceptance rate = 26%"
+  links:
+    paper: "https://arxiv.org/abs/2110.02128"
+  regions: [restless-bandits]
+
+- id: C13
+  type: conference
+  year: 2021
+  title: "Escaping from Zero Gradient: Revisiting Action-Constrained Reinforcement Learning via Frank-Wolfe Policy Optimization"
+  authors: "Jyun-Li Lin*, Wei Hung*, Shang-Hsuan Yang*, Ping-Chun Hsieh, and Xi Liu"
+  equal: "*: equal contribution"
+  venue: UAI
+  venueFull: "Conference on Uncertainty in Artificial Intelligence (UAI), 2021"
+  note: "Acceptance rate = 26.5%"
+  links:
+    paper: "https://arxiv.org/abs/2102.11055"
+  regions: [constrained-rl]
+
+- id: C12
+  type: conference
+  year: 2021
+  title: "Reward-Biased Maximum Likelihood Estimation for Linear Stochastic Bandits"
+  authors: "Yu-Heng Hung, Ping-Chun Hsieh, Xi Liu, and P. R. Kumar"
+  venue: AAAI
+  venueFull: "AAAI Conference on Artificial Intelligence (AAAI), 2021"
+  note: "Acceptance rate = 21%"
+  links:
+    paper: "https://arxiv.org/pdf/2010.04091.pdf"
+  regions: [contextual-bandit-optimization]
+
+- id: C11
+  type: conference
+  year: 2021
+  title: "Optimal Wireless Scheduling for Remote Sensing Through Brownian Approximation"
+  authors: "Daojing Guo, Ping-Chun Hsieh, and I-Hong Hou"
+  venue: INFOCOM
+  venueFull: "IEEE International Conference on Computer Communications (INFOCOM), 2021"
+  note: "Acceptance rate = 19.9%"
+  links:
+    paper: "https://drive.google.com/file/d/12xcbbIM0LOXDZe_vzIcC4C-vjTMw14fm/view?usp=sharing"
+  regions: []
+
+- id: C10
+  type: conference
+  year: 2020
+  title: "Exploration Through Reward Biasing: Reward-Biased Maximum Likelihood Estimation for Stochastic Multi-Armed Bandits"
+  authors: "Xi Liu*, Ping-Chun Hsieh*, Yu-Heng Hung, Anirban Bhattacharya, and P. R. Kumar"
+  equal: "*: equal contribution"
+  venue: ICML
+  venueFull: "International Conference on Machine Learning (ICML), 2020"
+  note: "Acceptance rate = 22%"
+  links:
+    paper: "https://arxiv.org/abs/1907.01287"
+  regions: [contextual-bandit-optimization]
+
+- id: C9
+  type: conference
+  year: 2020
+  title: "Fresher Content or Smoother Playback? A Brownian-Approximation Framework for Scheduling Real-Time Wireless Video Streams"
+  authors: "Ping-Chun Hsieh, Xi Liu, and I-Hong Hou"
+  venue: MobiHoc
+  venueFull: "ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), 2020"
+  note: "Acceptance rate = 15%"
+  award: "Best Paper Award"
+  links:
+    paper: "https://arxiv.org/abs/1911.00902"
+  regions: []
+
+- id: C8
+  type: conference
+  year: 2019
+  title: "Stay With Me: Lifetime Maximization Through Heteroscedastic Linear Bandits With Reneging"
+  authors: "Ping-Chun Hsieh*, Xi Liu*, Anirban Bhattacharya, and P. R. Kumar"
+  equal: "*: equal contribution"
+  venue: ICML
+  venueFull: "International Conference on Machine Learning (ICML), 2019"
+  note: "Acceptance rate = 22.6%"
+  links:
+    paper: "https://drive.google.com/open?id=1iXVvSbE6XYKdhT_5Dh2Q7-N3cYEUFeSt"
+  regions: [contextual-bandit-optimization]
+
+- id: C7
+  type: conference
+  year: 2018
+  title: "A Decentralized Medium Access Protocol for Real-Time Wireless Ad Hoc Networks With Unreliable Transmissions"
+  authors: "Ping-Chun Hsieh and I-Hong Hou"
+  venue: ICDCS
+  venueFull: "IEEE International Conference on Distributed Computing Systems (ICDCS), 2018"
+  links:
+    paper: "https://drive.google.com/file/d/10CFui8gzredhrGn4P23oov_ZZUIvslsT/view?usp=sharing"
+  regions: []
+
+- id: C6
+  type: conference
+  year: 2018
+  title: "PULS: Processor-Supported Ultra-Low Latency Scheduling"
+  authors: "Simon Yau, Ping-Chun Hsieh, Rajarshi Bhattacharyya, Kartic Bhargav, Srinivas Shakkottai, I-Hong Hou, and P. R. Kumar"
+  venue: MobiHoc
+  venueFull: "ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), 2018"
+  note: "Acceptance rate = 17%"
+  award: "Best Paper Finalist"
+  links:
+    paper: "https://drive.google.com/file/d/10Csm_St0XGO6SaEloJPuOlyOsil5BYZ6/view?usp=sharing"
+  regions: []
+
+- id: C5
+  type: conference
+  year: 2018
+  title: "An Experimental Study on Coverage Enhancement of LTE Cat-M1 for Machine-Type Communication"
+  authors: "Ping-Chun Hsieh, Yupeng Jia, Darwin Parra, and Prabha Aithal"
+  venue: ICC
+  venueFull: "IEEE International Conference on Communications (ICC), 2018"
+  links:
+    paper: "https://drive.google.com/file/d/10EwA-cGYkyGxiNCqSuyDgjIX2zN5uL-i/view?usp=sharing"
+  regions: []
+
+- id: C4
+  type: conference
+  year: 2017
+  title: "Throughput-Optimal Scheduling For Multi-Hop Networked Transportation Systems With Switch-Over Delay"
+  authors: "Ping-Chun Hsieh, Xi Liu, Jian Jiao, I-Hong Hou, Yunlong Zhang, and P.R. Kumar"
+  venue: MobiHoc
+  venueFull: "ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), 2017"
+  note: "Acceptance rate = 17%"
+  award: "Best Paper Award"
+  links:
+    paper: "https://drive.google.com/file/d/10JPI2YvsK6kTVhvfWtOAuiNXpn-88jFJ/view?usp=sharing"
+  regions: []
+
+- id: C3
+  type: conference
+  year: 2016
+  title: "Heavy-Traffic Analysis of QoE Optimality for On-Demand Video Streams Over Fading Channels"
+  authors: "Ping-Chun Hsieh and I-Hong Hou"
+  venue: INFOCOM
+  venueFull: "IEEE International Conference on Computer Communications (INFOCOM), 2016"
+  note: "Acceptance rate = 18.25%"
+  links:
+    paper: "https://drive.google.com/file/d/108Qzeq6rQ6yHr9PJDR0-2Uw-qST_H_aj/view?usp=sharing"
+  regions: []
+
+- id: C2
+  type: conference
+  year: 2015
+  title: "QoE-Optimal Scheduling for On-Demand Video Streams Over Unreliable Wireless Networks"
+  authors: "I-Hong Hou and Ping-Chun Hsieh"
+  venue: MobiHoc
+  venueFull: "ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), 2015"
+  note: "Acceptance rate = 14.9%"
+  links:
+    paper: "https://drive.google.com/file/d/10LeYRKFML5RHu1dPy53_VKPyxxXkWHT4/view?usp=sharing"
+  regions: []
+
+- id: C1
+  type: conference
+  year: 2013
+  title: "A Primary-Side-Control Quasi-Resonant Flyback Converter With Tight Output Voltage Regulation and Self-Calibrated Valley Switching"
+  authors: "Ping-Chun Hsieh, Chia-Jung Chang, and Chern-Lin Chen"
+  venue: ECCE
+  venueFull: "IEEE Energy Conversion Congress and Exposition (ECCE), 2013"
+  links:
+    paper: "https://drive.google.com/file/d/10TZ5rRmXGl-CW89ovjxyerB3MSNnXzc1/view?usp=sharing"
+  regions: []
+
+- id: J2
+  type: journal
+  year: 2018
+  title: "Heavy-Traffic Analysis of QoE Optimality for On-Demand Video Streams Over Fading Channels"
+  authors: "Ping-Chun Hsieh and I-Hong Hou"
+  venue: TON
+  venueFull: "IEEE/ACM Transactions on Networking (TON), vol. 26, no. 4, Aug. 2018, pp. 1768 – 1781"
+  links:
+    paper: "https://drive.google.com/file/d/1013IvYV6BcMeDjDRC_zAFAX-hhJZ8PQf/view?usp=sharing"
+  regions: []
+
+- id: J1
+  type: journal
+  year: 2017
+  title: "The Capacity of QoE for Wireless Networks with Unreliable Transmissions"
+  authors: "I-Hong Hou and Ping-Chun Hsieh"
+  venue: QUESTA
+  venueFull: "Queueing Systems: Theory and Applications (QUESTA), vol. 87, no. 1-2, Oct. 2017, pp. 131-159"
+  links:
+    paper: "https://drive.google.com/file/d/1-ycC1JqPMUObRQCVNG3b1Ta76p0JTgga/view?usp=sharing"
+  regions: []
+
+- id: W5
+  type: workshop
+  year: 2023
+  title: "Accelerated Policy Gradient: On the Nesterov Momentum for Reinforcement Learning"
+  authors: "*Yen-Ju Chen, *Nai-Chieh Huang, and Ping-Chun Hsieh"
+  equal: "*: equal contribution"
+  venue: "ICML Workshop"
+  venueFull: "Frontiers4LCD Workshop at International Conference on Machine Learning (ICML), 2023"
+  links:
+    paper: "https://openreview.net/forum?id=o66yu12PXa"
+  regions: [first-order-policy-optimization]
+
+- id: W4
+  type: workshop
+  year: 2023
+  title: "Generating Turn-Based Player Behavior via Experience from Demonstrations"
+  authors: "Kuang-Da Wang, Wei-Yao Wang, Ping-Chun Hsieh, Wen-Chih Peng"
+  venue: "ICML Workshop"
+  venueFull: "SPIGM Workshop at International Conference on Machine Learning (ICML), 2023"
+  links:
+    paper: "https://openreview.net/forum?id=9cuULoi7Ex"
+  regions: [real-world-applications]
+
+- id: W3
+  type: workshop
+  year: 2020
+  title: "Rethinking Deep Policy Gradient via State-Wise Policy Improvement"
+  authors: "Kai-Chun Hu, Ping-Chun Hsieh, Ting-Han Wei, and I-Chen Wu"
+  venue: "NeurIPS Workshop"
+  venueFull: "ICBINB Workshop @ NeurIPS 2020"
+  links:
+    paper: "https://openreview.net/forum?id=USDowdRKXmN"
+  regions: [first-order-policy-optimization]
+
+- id: W2
+  type: workshop
+  year: 2019
+  title: "Real-Time Streaming Graph Embedding Through Local Actions"
+  authors: "Xi Liu, Ping-Chun Hsieh, Nick Duffield, Rui Chen, Muhe Xie, and Xidao Wen"
+  venue: "WWW Workshop"
+  venueFull: "DL4G-SDE Workshop at the World Wide Web Conference (WWW), 2019"
+  links:
+    paper: "https://drive.google.com/file/d/1DykkGsylxIZJmHPvrw8ouJ8vNWpqy0M8/view?usp=sharing"
+  regions: []
+
+- id: W1
+  type: workshop
+  year: 2015
+  title: "WiMAC: Rapid Implementation Platform for User Deﬁnable MAC Protocols Through Separation"
+  authors: "Simon Yau, Liang Ge, Ping-Chun Hsieh, I-Hong Hou, Shuguang Cui, P. R. Kumar, Amal Ekbal, and Nikhil Kundargi"
+  venue: "SIGCOMM Demo"
+  venueFull: "ACM Special Interest Group on Data Communications (SIGCOMM) demo, 2015"
+  links:
+    paper: "https://drive.google.com/file/d/10NUmcnayreECc4bT4KxljrHA2oXCn-Me/view?usp=sharing"
+  regions: []
+
+- id: S2
+  type: preprint
+  year: 2019
+  title: "Developing Multiple-task Recommendations with Long-term Reward via Policy Distilled Reinforcement Learning"
+  authors: "Xi Liu, Li Li, Ping-Chun Hsieh, Muhe Xie, Yong Ge, and Rui Chen"
+  venue: Preprint
+  venueFull: "Submitted to ACM Transactions on Information Systems (TOIS), 2019"
+  links:
+    paper: "https://arxiv.org/pdf/2001.09595.pdf"
+  regions: []
+
+- id: S1
+  type: preprint
+  year: 2017
+  title: "Delay-Optimal Scheduling for Queueing Systems with Switching Overhead"
+  authors: "Ping-Chun Hsieh, I-Hong Hou, and Xi Liu"
+  venue: arXiv
+  venueFull: "arXiv Technical Report (arXiv:1701.03831), Jan. 2017"
+  links:
+    paper: "https://arxiv.org/abs/1701.03831"
+  regions: []
